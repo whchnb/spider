@@ -1,0 +1,14 @@
+headers = '''Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-US;q=0.7
+Cache-Control: max-age=0
+Connection: keep-alive
+Cookie: S_UUID=49490f3cff90e18f61c4ee32ec194a13f8775927; ms_ab_t=258504; _ga=GA1.2.1548616589.1555923322; _gid=GA1.2.693867308.1555923322; __auc=45b01dd916a44421f344b1aec36; BOSHSRV=b1; match_gender=1; gender=; ucd=nmm4e0f14838a460f3dcad84f94f4c467f9; testcookie=testcookie; GDSI=a40c08a67a63263e62c7fe53dc31c85c; S_UIDC=bcdc4b2cbeb1c77afca9c6a2e2d259a06ce316eb; username=ritchizhou11; password=NdUVLSm14C8WQiKm%2FmeChw; search_advanced_default=%7B%22checkbox%22%3A%7B%22match_marital%22%3A%5B%220%22%5D%2C%22relation%22%3A%5B%220%22%5D%2C%22match_ethnicity%22%3A%5B%220%22%5D%2C%22match_body%22%3A%5B%220%22%5D%2C%22match_religion%22%3A%5B%220%22%5D%2C%22match_education%22%3A%5B%220%22%5D%2C%22match_smoker%22%3A%5B%220%22%5D%2C%22match_drinker%22%3A%5B%220%22%5D%2C%22match_have_children%22%3A%5B%220%22%5D%7D%2C%22radio%22%3A%7B%22is_distance%22%3A%220%22%7D%2C%22select%22%3A%7B%22gender%22%3A%5B%222%22%5D%2C%22match_gender%22%3A%5B%221%22%5D%2C%22match_age_min%22%3A%5B%2220%22%5D%2C%22match_age_max%22%3A%5B%2259%22%5D%2C%22r_country%22%3A%5B%220%22%5D%2C%22match_r_state_id%22%3A%5B%22%22%5D%2C%22distance%22%3A%5B%22-1%22%5D%2C%22search_millionare%22%3A%5B%220%22%5D%2C%22search_photo%22%3A%5B%220%22%5D%2C%22match_height_min_all%22%3A%5B%224%22%5D%2C%22match_height_max_all%22%3A%5B%2234%22%5D%7D%2C%22text%22%3A%7B%22r_zip%22%3A%2210002%22%2C%22keywords%22%3A%22%22%2C%22save_search_criteria_name%22%3A%22Saved%20search%201%22%7D%7D; distance=-1; session_id=242610fd49df3dd0; _gat=1; mp_a2c7d3caa9e44466487cc47227770c58_mixpanel=%7B%22distinct_id%22%3A%20%2216a44421b3d1b8-0364b98e6af8fe-b781636-144000-16a44421b3e17e%22%2C%22%24device_id%22%3A%20%2216a44421b3d1b8-0364b98e6af8fe-b781636-144000-16a44421b3e17e%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D; __asc=7c104b7416a4808f05a78902519
+Host: www.millionairematch.com
+Referer: https://www.millionairematch.com/search_results?args_str=UmFuZG9tSVYqHhKWgFtOeOBcVrvJEkCN0RA2MJKVMqW4u0R8zwvF68%2FTxYWpGhT%2FdrT3HVrXpDsRuPXRhNsg489%2BxzQNf7RJi3FhlyN5wTD96ytHjw9zGvnENfEKdP5Cd9ZNzM%2F54Ik2l0Hr%2FCnBjtmvVbaeknJauP0GmpGb1in%2FU6YeFHod5U7wQaRq9tEhkG8wUXeEdMsWtpjLBLGNX5wqhiX3DGLjeEMZwyfqs9Ut7gLyFDWHkGjInlPeEQbKfjvbdIDIIAM3mJ9a%2Bw0btotfl%2F%2FQKB8K&w=quick_search&count=500&store=&search_photo=0&is_distance=0&match_gender=1&hst_id=113114855&results_order=___original_order&offset=20
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'''
+h = headers.split('\n')
+c = {i.split(': ')[0]:i.split(': ')[1] for i in h}
+for k,v in c.items():
+    print("'{}': '{}',".format(k,v))
