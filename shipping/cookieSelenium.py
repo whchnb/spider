@@ -62,8 +62,8 @@ class CookieSelenium():
     def login_4PX(self):
         url = self.url
         self.browser.get(url)
-        self.browser.find_element_by_id('loginName').send_keys('jakcom')
-        self.browser.find_element_by_id('password').send_keys('Jakcom123')
+        self.browser.find_element_by_id('loginName').send_keys('*****')
+        self.browser.find_element_by_id('password').send_keys('*****')
         self.browser.find_element_by_id('loginBtn').send_keys(Keys.ENTER)
         cookies = self.browser.get_cookies()
         cookieJar = [i['name'] + '=' + i['value'] for i in cookies]
@@ -76,8 +76,8 @@ class CookieSelenium():
         self.browser.implicitly_wait(2)
         iframe = self.browser.find_element_by_id('layui-layer-iframe1')
         self.browser.switch_to_frame(iframe)
-        self.browser.find_element_by_id('TxtUser').send_keys('huafei')
-        self.browser.find_element_by_id('Txtpassword').send_keys('xutian88')
+        self.browser.find_element_by_id('TxtUser').send_keys('*****')
+        self.browser.find_element_by_id('Txtpassword').send_keys('*****')
         self.browser.find_element_by_id('Txtpassword').send_keys(Keys.ENTER)
         cookies = self.browser.get_cookies()
         cookieJar = [i['name'] + '=' + i['value'] for i in cookies]
@@ -99,9 +99,9 @@ class CookieSelenium():
         im = im.convert('RGB')
         im = im.crop((left, top, right, bottom))
         im.save('get_image.jpg')
-        self.browser.find_element_by_id('loginname').send_keys('jakcom')
+        self.browser.find_element_by_id('loginname').send_keys('*****')
         self.browser.find_element_by_id('loginname').send_keys(Keys.F12)
-        self.browser.find_element_by_id('mmPwd').send_keys('Jakcom173')
+        self.browser.find_element_by_id('mmPwd').send_keys('*****')
         identificationCodes = IdentificationCodes()
         code = identificationCodes.identification()
         self.browser.find_element_by_id('random1').send_keys(code)
@@ -127,5 +127,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    ';jsessionid=97FBC6108CDDC9CE518BC129A5CDE5E5'
-    'http://b2c.sf-express.com/ruserver/login/goMainFrame.action;jsessionid=338468FFCD8B1BD72E3A38AD23A74CD9.tomcat1.tomcat1'
