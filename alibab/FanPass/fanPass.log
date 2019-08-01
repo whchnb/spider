@@ -1,0 +1,805 @@
+05/13/2019 11:46:45 AM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 11:48:00 AM - INFO - fb2@jakcom.com 发送日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (639, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/13/2019 11:55:10 AM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 11:55:57 AM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 11:57:34 AM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 11:57:35 AM - INFO - fb2@jakcom.com 发送日志 Message: no such alert
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 12:22:01 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 12:22:58 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 12:23:48 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 12:23:50 PM - INFO - fb2@jakcom.com 发送日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (639, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/13/2019 12:25:26 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 12:26:23 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 12:27:39 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 12:29:04 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 13:00:43 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 13:56:03 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 13:57:26 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 13:57:26 PM - INFO - fb2@jakcom.com 发送日志 local variable 'alibaba' referenced before assignment {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 13:59:13 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:01:55 PM - INFO - fb2@jakcom.com 发送日志 fb2@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:05:03 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:06:27 PM - INFO - fb1@jakcom.com 发送日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="ice-any-picker__trigger-btn"][1]"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:07:48 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:24:42 PM - INFO - fb1@jakcom.com 发送日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-4"]/div/div/div/div[2]/div/div/div[1]/ul/li/ul/li[6]"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:26:16 PM - INFO - fb1@jakcom.com 发送日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div/div[2]/div/div/div[1]/ul/li/ul/li[1]"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:32:57 PM - INFO - fb1@jakcom.com 发送日志 'NoneType' object has no attribute 'text' {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:44:14 PM - INFO - fb1@jakcom.com 发送日志 'NoneType' object has no attribute 'text' {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:46:10 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:47:25 PM - INFO - fb1@jakcom.com 发送日志 Alert Text: None
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:52:23 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:56:50 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:57:43 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:59:06 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 14:59:56 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:00:44 PM - INFO - fb1@jakcom.com 发送日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div/div[1]/ul/li[11]"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:02:13 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:02:50 PM - INFO - fb1@jakcom.com 发送日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:03:24 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com Message: element click intercepted: Element <div class="ice-any-picker__trigger-btn" style="width: 143px; height: 143px; line-height: 143px;"></div> is not clickable at point (870, 244). Other element would receive the click: <div class="creator-add-item__item-center">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/13/2019 15:04:16 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:10:00 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:10:04 PM - INFO - fb1@jakcom.com 发送日志 'NoneType' object has no attribute 'text' {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:10:04 PM - INFO - fb1@jakcom.com 发送日志 Alert Text: None
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:10:04 PM - INFO - fb1@jakcom.com 发送日志 Alert Text: None
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:10:04 PM - INFO - fb1@jakcom.com 发送日志 Alert Text: None
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:10:04 PM - INFO - fb1@jakcom.com 发送日志 Alert Text: None
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:10:04 PM - INFO - fb1@jakcom.com 发送日志 Alert Text: None
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:10:04 PM - INFO - fb1@jakcom.com 发送日志 Alert Text: None
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:12:34 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com Message: element click intercepted: Element <div class="ice-any-picker__trigger-btn" style="width: 143px; height: 143px; line-height: 143px;"></div> is not clickable at point (870, 244). Other element would receive the click: <div class="creator-add-item__item-center">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/13/2019 15:18:48 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:24:54 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:25:48 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:26:40 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:27:31 PM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 15:55:29 PM - INFO - fb3@jakcom.com 发送日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 16:10:54 PM - INFO - fb3@jakcom.com 发送日志 fb3@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 16:20:47 PM - INFO - fb3@jakcom.com 发送日志 fb3@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 16:22:10 PM - INFO - fb3@jakcom.com 发送日志 fb3@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 16:23:05 PM - INFO - fb3@jakcom.com 发送日志 fb3@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 18:15:35 PM - INFO - fb3@jakcom.com 发送日志 Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 18:19:22 PM - INFO - fb3@jakcom.com 发送日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 18:20:46 PM - INFO - fb3@jakcom.com 发送日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 18:21:44 PM - INFO - fb3@jakcom.com 发送日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 18:23:42 PM - INFO - fb3@jakcom.com 发送日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 18:25:08 PM - INFO - fb3@jakcom.com 发送日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="ice-any-picker__trigger-btn"][1]"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 18:26:06 PM - INFO - fb3@jakcom.com 发送日志 fb3@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/13/2019 18:30:15 PM - INFO - tx@jakcom.com 发送日志 tx@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 09:48:07 AM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 09:48:49 AM - INFO - fb1@jakcom.com 发送日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 09:48:52 AM - INFO - fb1@jakcom.com 发送日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 10:05:15 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:05:15 AM - INFO - fb1@jakcom.com 发送粉丝通日志 fb1@jakcom.com 存在敏感词汇 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:13:21 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布失败 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:22:08 AM - INFO - fb1@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:41:55 AM - INFO - fb1@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="ice-any-picker__trigger-btn"][2]"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:44:40 AM - INFO - fb1@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="ice-any-picker__trigger-btn"][2]"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:52:21 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:52:22 AM - INFO - fb1@jakcom.com 发送粉丝通日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:53:29 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:53:29 AM - INFO - fb1@jakcom.com 发送粉丝通日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:54:29 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:54:29 AM - INFO - fb1@jakcom.com 发送粉丝通日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:55:58 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:55:58 AM - INFO - fb1@jakcom.com 发送粉丝通日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:57:37 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布失败 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:58:51 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 10:58:51 AM - INFO - fb1@jakcom.com 发送粉丝通日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:00:31 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:00:31 AM - INFO - fb1@jakcom.com 发送粉丝通日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:01:31 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:03:34 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:05:50 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:07:25 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:07:25 AM - INFO - fb2@jakcom.com 发送粉丝通日志 {'Account': 'fb2@jakcom.com', 'FeedVideo': 'BH3描述页-13.mp4', 'VideoID': (1, 8), 'FeedType': '公司介绍', 'FeedTitle': 'BH3-公司介绍-20190514', 'SKU': 'BH3', 'Createtime': '2019-05-14 11:07:25.198014'} fb2@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:08:26 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:08:26 AM - INFO - fb2@jakcom.com 发送粉丝通日志 {'Account': 'fb2@jakcom.com', 'FeedVideo': 'H1-58.mp4', 'VideoID': (1, 3), 'FeedType': '交易热品', 'FeedTitle': 'H1-交易热品-20190514', 'SKU': 'H1', 'Createtime': '2019-05-14 11:08:26.800012'} fb2@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:10:04 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:10:04 AM - INFO - fb2@jakcom.com 发送粉丝通日志 {'Account': 'fb2@jakcom.com', 'FeedVideo': 'R3_onekeybatch.mp4', 'VideoID': (19, 5), 'FeedType': '定制能力', 'FeedTitle': 'R3-定制能力-20190514', 'SKU': 'R3', 'Createtime': '2019-05-14 11:10:04.272013'} fb2@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:10:07 AM - INFO - fb2@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:10:08 AM - INFO - fb2@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:11:09 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:11:09 AM - INFO - fb2@jakcom.com 发送粉丝通日志 {'Account': 'fb2@jakcom.com', 'FeedVideo': 'CH2-40.mp4', 'VideoID': (11, 8), 'FeedType': '询盘热品', 'FeedTitle': 'CH2-询盘热品-20190514', 'SKU': 'CH2', 'Createtime': '2019-05-14 11:11:09.713013'} fb2@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:11:54 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com Message: element click intercepted: Element <div class="ice-any-picker__trigger-btn" style="width: 143px; height: 143px; line-height: 143px;"></div> is not clickable at point (353, 244). Other element would receive the click: <div class="creator-add-item__item-center">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:12:17 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:12:17 AM - INFO - fb2@jakcom.com 发送粉丝通日志 {'Account': 'fb2@jakcom.com', 'FeedVideo': 'OS2_onekeybatch.mp4', 'VideoID': (19, 7), 'FeedType': '性能评测', 'FeedTitle': 'OS2-性能评测-20190514', 'SKU': 'OS2', 'Createtime': '2019-05-14 11:12:17.531014'} fb2@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:13:54 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:13:54 AM - INFO - fb2@jakcom.com 发送粉丝通日志 {'Account': 'fb2@jakcom.com', 'FeedVideo': 'N2-135.mp4', 'VideoID': (30, 8), 'FeedType': '生产工艺', 'FeedTitle': 'N2-生产工艺-20190514', 'SKU': 'N2', 'Createtime': '2019-05-14 11:13:54.163011'} fb2@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:13:56 AM - INFO - fb2@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:15:02 AM - INFO - fb3@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div/div[2]/div/div/div[2]/div[1]/div[1]"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:16:14 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com Message: element click intercepted: Element <div class="ice-any-picker__trigger-btn ice-any-picker__trigger-btn-checked" style="width: 143px; height: 143px; line-height: 143px;" data-spm-anchor-id="a2116r.publish-post-seller.0.i63.52254aa0eaEeZm">...</div> is not clickable at point (353, 244). Other element would receive the click: <div class="creator-add-item__item-center">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:16:55 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:16:55 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'R3-50.mp4', 'VideoID': (45, 2), 'FeedType': '实地勘厂', 'FeedTitle': 'R3-实地勘厂-20190514', 'SKU': 'R3', 'Createtime': '2019-05-14 11:16:55.751014'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:17:48 AM - INFO - fb3@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div/div[1]/ul/li[11]"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:19:39 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:21:06 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:21:06 AM - INFO - fb2@jakcom.com 发送粉丝通日志 {'Account': 'fb2@jakcom.com', 'FeedVideo': 'JAKCOM_CS2_90s_定制_16-9_EN.mp4', 'VideoID': (1, 2), 'FeedType': '产品展示', 'FeedTitle': 'CS2-产品展示-20190514', 'SKU': 'CS2', 'Createtime': '2019-05-14 11:21:06.037543'} fb2@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:22:44 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:22:44 AM - INFO - fb2@jakcom.com 发送粉丝通日志 {'Account': 'fb2@jakcom.com', 'FeedVideo': 'WE2_onekeybatch.mp4', 'VideoID': (19, 3), 'FeedType': '展会现场', 'FeedTitle': 'WE2-展会现场-20190514', 'SKU': 'WE2', 'Createtime': '2019-05-14 11:22:44.226058'} fb2@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:23:32 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:24:24 AM - INFO - fb3@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-4"]/div/div/div/div[2]/div/div/div[1]/ul/li/ul/li[1]"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:25:26 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:25:26 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'ET-48.mp4', 'VideoID': (2, 3), 'FeedType': '交易热品', 'FeedTitle': 'ET-交易热品-20190514', 'SKU': 'ET', 'Createtime': '2019-05-14 11:25:26.072734'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:26:52 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:26:52 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'JAKCOM_CS2_90s_定制_16-9_EN.mp4', 'VideoID': (1, 1), 'FeedType': '公司介绍', 'FeedTitle': 'CS2-公司介绍-20190514', 'SKU': 'CS2', 'Createtime': '2019-05-14 11:26:52.041732'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:28:34 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:28:34 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'CC2-76.mp4', 'VideoID': (38, 2), 'FeedType': '实地勘厂', 'FeedTitle': 'CC2-实地勘厂-20190514', 'SKU': 'CC2', 'Createtime': '2019-05-14 11:28:34.500734'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:29:29 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:29:29 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'BH3描述页-13.mp4', 'VideoID': (2, 10), 'FeedType': '买家评价', 'FeedTitle': 'BH3-买家评价-20190514', 'SKU': 'BH3', 'Createtime': '2019-05-14 11:29:29.627732'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:29:31 AM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:29:33 AM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:30:19 AM - INFO - fb3@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:31:56 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:31:56 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'B3-131.mp4', 'VideoID': (31, 7), 'FeedType': '询盘热品', 'FeedTitle': 'B3-询盘热品-20190514', 'SKU': 'B3', 'Createtime': '2019-05-14 11:31:56.754733'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:31:58 AM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:31:59 AM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:32:00 AM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:32:02 AM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:32:46 AM - INFO - fb3@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:33:31 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:33:49 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:33:49 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'WE2_onekeybatch.mp4', 'VideoID': (12, 9), 'FeedType': '新品发布', 'FeedTitle': 'WE2-新品发布-20190514', 'SKU': 'WE2', 'Createtime': '2019-05-14 11:33:49.638258'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:33:50 AM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:35:44 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:35:44 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'N2-88.mp4', 'VideoID': (44, 3), 'FeedType': '产品清单', 'FeedTitle': 'N2-产品清单-20190514', 'SKU': 'N2', 'Createtime': '2019-05-14 11:35:44.660823'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:35:46 AM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/14/2019 11:37:16 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:38:19 AM - INFO - tx@jakcom.com 发送测试日志 tx@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:41:09 AM - INFO - fb3@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-4"]/div/div/div/div[2]/div/div/div[1]/ul/li/ul/li[1]"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:42:03 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:43:31 AM - INFO - tx@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div/div[2]/div/div/div[2]/div[1]/div[1]"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/14/2019 11:44:26 AM - INFO - tx@jakcom.com 发送测试日志 tx@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 08:56:30 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 08:56:30 AM - INFO - fb1@jakcom.com 发送粉丝通日志 {'Account': 'fb1@jakcom.com', 'FeedVideo': 'N2_onekeybatch.mp4', 'VideoID': (13, 7), 'FeedType': '买家评价', 'FeedTitle': 'N2-买家评价-20190516', 'SKU': 'N2', 'Createtime': '2019-05-16 08:56:30.297606'} fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 08:57:39 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布失败 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 09:01:14 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 09:01:14 AM - INFO - fb1@jakcom.com 发送粉丝通日志 {'Account': 'fb1@jakcom.com', 'FeedVideo': 'CC2_onekeybatch.mp4', 'VideoID': (14, 1), 'FeedType': '性能评测', 'FeedTitle': 'CC2-性能评测-20190516', 'SKU': 'CC2', 'Createtime': '2019-05-16 09:01:14.827611'} fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 09:01:57 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 09:02:19 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 09:02:19 AM - INFO - fb1@jakcom.com 发送粉丝通日志 {'Account': 'fb1@jakcom.com', 'FeedVideo': 'R3.mp4', 'VideoID': (9, 10), 'FeedType': '展会现场', 'FeedTitle': 'R3-展会现场-20190516', 'SKU': 'R3', 'Createtime': '2019-05-16 09:02:19.160610'} fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 09:03:52 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布失败 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:38:14 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布失败 https://creator.alibaba.com/publish/post?spm=a2116r.creation-new-seller.main.1.365a138c8bbg57&from=feed&template=icbuVideo 系统繁忙，请稍后再试 [错误码: 0b08557415579742610364607ebc30] {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:39:20 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:39:20 AM - INFO - fb1@jakcom.com 发送粉丝通日志 {'Account': 'fb1@jakcom.com', 'FeedVideo': 'JAKCOM_CS2_90s_定制_16-9_EN.mp4', 'VideoID': (2, 2), 'FeedType': '产品展示', 'FeedTitle': 'CS2-产品展示-20190516', 'SKU': 'CS2', 'Createtime': '2019-05-16 10:39:20.629482'} fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:39:22 AM - INFO - fb1@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 10:39:23 AM - INFO - fb1@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 10:40:18 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:40:18 AM - INFO - fb1@jakcom.com 发送粉丝通日志 {'Account': 'fb1@jakcom.com', 'FeedVideo': 'JAKCOM_SH2_30s_定制_16-9_EN.mp4', 'VideoID': (2, 1), 'FeedType': '新品发布', 'FeedTitle': 'SH2-新品发布-20190516', 'SKU': 'SH2', 'Createtime': '2019-05-16 10:40:18.813483'} fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:41:44 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:41:44 AM - INFO - fb1@jakcom.com 发送粉丝通日志 {'Account': 'fb1@jakcom.com', 'FeedVideo': 'B3描述页-13.mp4', 'VideoID': (1, 1), 'FeedType': '实地勘厂', 'FeedTitle': 'B3-实地勘厂-20190516', 'SKU': 'B3', 'Createtime': '2019-05-16 10:41:44.789480'} fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:42:17 AM - INFO - fb1@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:42:19 AM - INFO - fb1@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 10:42:51 AM - INFO - fb1@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:43:23 AM - INFO - fb1@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:43:54 AM - INFO - fb1@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:44:26 AM - INFO - fb1@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:44:58 AM - INFO - fb1@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:45:29 AM - INFO - fb1@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:46:08 AM - INFO - fb2@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:46:11 AM - INFO - fb2@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 10:46:12 AM - INFO - fb2@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 10:58:02 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:58:02 AM - INFO - fb1@jakcom.com 发送粉丝通日志 {'Account': 'fb1@jakcom.com', 'FeedVideo': 'MC2-英文_onekeybatch.mp4', 'VideoID': (13, 5), 'FeedType': '定制能力', 'FeedTitle': 'MC2-定制能力-20190516', 'SKU': 'MC2', 'Createtime': '2019-05-16 10:58:02.681480'} fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 10:59:31 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布失败 https://creator.alibaba.com/publish/post?spm=a2116r.creation-new-seller.main.1.365a138c8bbg57&from=feed&template=icbuVideo 图片信息读取错误，请稍后再试 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:00:15 AM - INFO - fb1@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-4"]/div/div/div/div[2]/div/div/div[1]/ul/li/ul/li[1]"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:01:17 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:01:17 AM - INFO - fb1@jakcom.com 发送粉丝通日志 {'Account': 'fb1@jakcom.com', 'FeedVideo': 'H1-49.mp4', 'VideoID': (2, 3), 'FeedType': '公司介绍', 'FeedTitle': 'H1-公司介绍-20190516', 'SKU': 'H1', 'Createtime': '2019-05-16 11:01:17.651480'} fb1@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:01:19 AM - INFO - fb1@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:02:10 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com Message: element click intercepted: Element <div class="ice-any-picker__trigger-btn ice-any-picker__trigger-btn-checked" style="width: 143px; height: 143px; line-height: 143px;" data-spm-anchor-id="a2116r.publish-post-seller.0.i39.52254aa0x5auwW">...</div> is not clickable at point (353, 244). Other element would receive the click: <div class="creator-add-item__item-center">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:02:20 AM - INFO - fb1@jakcom.com 发送测试日志 fb1@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:02:59 AM - INFO - fb2@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:03:02 AM - INFO - fb2@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:03:03 AM - INFO - fb2@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:03:05 AM - INFO - fb2@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:03:06 AM - INFO - fb2@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:04:23 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:04:23 AM - INFO - fb2@jakcom.com 发送粉丝通日志 {'Account': 'fb2@jakcom.com', 'FeedVideo': 'P2_onekeybatch.mp4', 'VideoID': (19, 6), 'FeedType': '买家评价', 'FeedTitle': 'P2-买家评价-20190516', 'SKU': 'P2', 'Createtime': '2019-05-16 11:04:23.963481'} fb2@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:04:25 AM - INFO - fb2@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:04:26 AM - INFO - fb2@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:05:30 AM - INFO - fb2@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div/div[2]/div/div/div[2]/div[1]/div[1]"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:06:06 AM - INFO - fb2@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div/div[2]/div/div/div[2]/div[2]/div[1]/div[2]/div[2]"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:06:40 AM - INFO - fb2@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:07:26 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com Message: element click intercepted: Element <div class="ice-any-picker__trigger-btn ice-any-picker__trigger-btn-checked" style="width: 143px; height: 143px; line-height: 143px;" data-spm-anchor-id="a2116r.publish-post-seller.0.i18.52254aa0Uib5zS">...</div> is not clickable at point (353, 244). Other element would receive the click: <div class="creator-add-item__item-center">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:07:49 AM - INFO - fb2@jakcom.com 发送测试日志 fb2@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:07:49 AM - INFO - fb2@jakcom.com 发送粉丝通日志 {'Account': 'fb2@jakcom.com', 'FeedVideo': 'H1-58.mp4', 'VideoID': (1, 3), 'FeedType': '产品清单', 'FeedTitle': 'H1-产品清单-20190516', 'SKU': 'H1', 'Createtime': '2019-05-16 11:07:49.095480'} fb2@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:08:23 AM - INFO - fb2@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:08:57 AM - INFO - fb2@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:10:02 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:10:02 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'BH3描述页-13.mp4', 'VideoID': (2, 10), 'FeedType': '买家评价', 'FeedTitle': 'BH3-买家评价-20190516', 'SKU': 'BH3', 'Createtime': '2019-05-16 11:10:02.444482'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:11:47 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:11:47 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'CC2-76.mp4', 'VideoID': (38, 2), 'FeedType': '产品清单', 'FeedTitle': 'CC2-产品清单-20190516', 'SKU': 'CC2', 'Createtime': '2019-05-16 11:11:47.401482'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:11:48 AM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:12:25 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com Message: element click intercepted: Element <div class="ice-any-picker__trigger-btn" style="width: 143px; height: 143px; line-height: 143px;"></div> is not clickable at point (353, 244). Other element would receive the click: <div class="creator-add-item__item-center">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:12:33 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com Message: element click intercepted: Element <div class="ice-any-picker__trigger-btn ice-any-picker__trigger-btn-checked" style="width: 143px; height: 143px; line-height: 143px;" data-spm-anchor-id="a2116r.publish-post-seller.0.i25.52254aa0pK7Nbu">...</div> is not clickable at point (353, 244). Other element would receive the click: <div class="creator-add-item__item-center">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:13:00 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布失败 https://creator.alibaba.com/publish/post?spm=a2116r.creation-new-seller.main.1.365a138c8bbg57&from=feed&template=icbuVideo 本内容添加的视频已被其他内容引用， 对应的内容ID：217243381238 标题：《Jakcom OS2 Outdoor Wireless Speaker》，继续发布此内容，评论和点赞等数据将独立统计。 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:13:56 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:13:56 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'JAKCOM_SH2_30s_定制_16-9_EN.mp4', 'VideoID': (1, 2), 'FeedType': '定制能力', 'FeedTitle': 'SH2-定制能力-20190516', 'SKU': 'SH2', 'Createtime': '2019-05-16 11:13:56.295485'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:14:31 AM - INFO - fb3@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:15:35 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布失败 https://creator.alibaba.com/publish/post?spm=a2116r.creation-new-seller.main.1.365a138c8bbg57&from=feed&template=icbuVideo 本内容添加的视频已被其他内容引用， 对应的内容ID：217425330916 标题：《JAKCOM MC2 Wireless Mouse Pad Charger》，继续发布此内容，评论和点赞等数据将独立统计。 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:16:18 AM - INFO - fb3@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:17:19 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:17:19 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'WE2_onekeybatch.mp4', 'VideoID': (12, 9), 'FeedType': '新品发布', 'FeedTitle': 'WE2-新品发布-20190516', 'SKU': 'WE2', 'Createtime': '2019-05-16 11:17:19.273480'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:18:43 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布失败 https://creator.alibaba.com/publish/post?spm=a2116r.creation-new-seller.main.1.365a138c8bbg57&from=feed&template=icbuVideo  {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:19:19 AM - INFO - fb3@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:21:04 AM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:21:04 AM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'R3-50.mp4', 'VideoID': (45, 2), 'FeedType': '性能评测', 'FeedTitle': 'R3-性能评测-20190516', 'SKU': 'R3', 'Createtime': '2019-05-16 11:21:04.005482'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:22:03 AM - INFO - fb3@jakcom.com 发送测试日志 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="dialog-body-1"]/div/div/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/span/span"}
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 11:22:04 AM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 11:23:08 AM - INFO - tx@jakcom.com 发送测试日志 tx@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:00:49 PM - INFO - fb1@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="ice-add-image_list-item ice-add-image__uploadbtn" style="width: 134px; height: 134px;">...</div> is not clickable at point (582, 686). Other element would receive the click: <div class="next-overlay-inner next-dialog-container">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 14:00:52 PM - INFO - fb1@jakcom.com 发送测试日志 'NoneType' object has no attribute 'click' {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:23:43 PM - INFO - fb1@jakcom.com 发送测试日志 cookie 出错,刷新页面重新开始,资源未加载 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:39:51 PM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:39:51 PM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'JAKCOM_CS2_90s_定制_16-9_EN.mp4', 'VideoID': (1, 1), 'FeedType': '实地勘厂', 'FeedTitle': 'CS2-实地勘厂-20190516', 'SKU': 'CS2', 'Createtime': '2019-05-16 14:39:51.675265'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:40:24 PM - INFO - fb3@jakcom.com 发送测试日志 'NoneType' object is not iterable {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:40:25 PM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 14:40:57 PM - INFO - fb3@jakcom.com 发送测试日志 'NoneType' object is not iterable {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:44:19 PM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:44:20 PM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'P2_onekeybatch.mp4', 'VideoID': (12, 10), 'FeedType': '产品展示', 'FeedTitle': 'P2-产品展示-20190516', 'SKU': 'P2', 'Createtime': '2019-05-16 14:44:19.992264'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:44:22 PM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 14:45:29 PM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 发布正常 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:45:29 PM - INFO - fb3@jakcom.com 发送粉丝通日志 {'Account': 'fb3@jakcom.com', 'FeedVideo': 'MC2-英文_onekeybatch.mp4', 'VideoID': (12, 7), 'FeedType': '交易热品', 'FeedTitle': 'MC2-交易热品-20190516', 'SKU': 'MC2', 'Createtime': '2019-05-16 14:45:29.699301'} fb3@jakcom.com 发布正常 {"statusCode":"200","message":"操作成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:45:31 PM - INFO - fb3@jakcom.com 发送测试日志 Message: element click intercepted: Element <div class="empty-item">...</div> is not clickable at point (318, 460). Other element would receive the click: <div class="empty-item-wrap" style="width: 248px; height: 155px; margin: 0px;">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 14:46:14 PM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com Message: element click intercepted: Element <div class="ice-any-picker__trigger-btn ice-any-picker__trigger-btn-checked" style="width: 143px; height: 143px; line-height: 143px;" data-spm-anchor-id="a2116r.publish-post-seller.0.i19.52254aa0vYFIpj">...</div> is not clickable at point (353, 244). Other element would receive the click: <div class="creator-add-item__item-center">...</div>
+  (Session info: headless chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+ 
+
+
+
+<h1 class="text-danger">错误。</h1>
+<h2 class="text-danger">处理你的请求时出错。</h2>
+
+
+05/16/2019 14:46:27 PM - INFO - fb3@jakcom.com 发送测试日志 fb3@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
+05/16/2019 14:47:29 PM - INFO - tx@jakcom.com 发送测试日志 tx@jakcom.com 已达今日发布上限 {"statusCode":"200","message":"数据插入成功","closeCurrent":false,"callbackType":null,"tabid":null,"dialogid":null,"divid":null,"forward":null,"forwardConfirm":null,"data":null,"data1":null,"filename":null,"ContentEncoding":null,"ContentType":null,"JsonRequestBehavior":0}
