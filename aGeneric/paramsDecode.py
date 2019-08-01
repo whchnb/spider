@@ -1,0 +1,5 @@
+a = '_unused=0&carrier=CHN-UNICOM&mcc_mnc=46001x1308&sdk_version=17711&os_api=27&device_platform=android&os_version=8.1.0&display_density=720x1356&dpi=320&device_brand=vivo&device_type=vivo+Y71A&bh=257&display_dpi=320&density=2.0&ac=wifi&channel=vivo&aid=1128&app_name=aweme&update_version_code=7302&version_code=730&version_name=7.3.0&manifest_version_code=7.3.0&language=zh&iid=80292226089&device_id=55717242380&uuid=868738038296089&user_period=0&user_mode=0&is_cold_start=0&user_id=71518246564&longitude=112.583474&latitude=37.843868&manifest_version_code=730&_rticket=1564121134134&app_type=normal&iid=80292226089&channel=vivo&device_type=vivo%20Y71A&language=zh&uuid=868738038296089&resolution=720*1356&openudid=8a406228c13cd637&update_version_code=7302&os_api=27&dpi=320&ac=wifi&device_id=55717242380&mcc_mnc=46001&os_version=8.1.0&version_code=730&app_name=aweme&version_name=7.3.0&js_sdk_version=1.19.4.10&device_brand=vivo&ssmix=a&device_platform=android&aid=1128&ts=1564121134&sec_user_id=MS4wLjABAAAAktmPiJGcYJYUhRyiFZbolhpuWrr6bSVT0vvsbq69o78'
+
+for i in a.split('&'):
+    # print(i)
+    print("'%s': '%s'," % (i.split('=')[0], i.split('=')[1]))
